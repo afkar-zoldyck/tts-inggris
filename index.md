@@ -1,17 +1,4 @@
 <h1>Ivona 2 Text-To-Speech Voices 1.6.70 English</h1>
-<p>Setelah menginstall voice, silahkan copy file ini pada directory, sifatnya WAJIB</p>
-<h2>Fix Ivona 2</h2>
-<div>
-    <p>
-        <a
-            href="http://rghost.net/7Xk45FjvH"
-        >
-            Download
-        </a>
-    </p>
-</div>
-<p>Password: board4all</p>
-<p>
     <h3>American English | Chipmunk </h3>
 </p>
 <p>
@@ -171,4 +158,16 @@
         Download
     </a>
 </p>
-
+<p>Setelah menginstall voice, silahkan copy file ini pada directory, sifatnya WAJIB</p>
+<h2>Fix Ivona 2</h2>
+<div>
+    <p>
+        <a
+            href="http://rghost.net/7Xk45FjvH"
+        >
+            Download
+        </a>
+    </p>
+</div>
+<p>Password: board4all</p>
+<p>
