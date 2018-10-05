@@ -6,7 +6,7 @@
         <br/>
     </strong>
     <br/>
-    <strong>American English | Chipmunk </strong>
+    <h3>American English | Chipmunk </h3>
 </p>
 <p>
     <strong>- Male (Funny/Crazy) </strong>
@@ -24,7 +24,7 @@
     </p>
 </div>
 <p>
-    <strong>American English | Eric </strong>
+    <h3>American English | Eric </h3>
 </p>
 <p>
     <strong>- Male </strong>
@@ -38,12 +38,11 @@
             href="https://mega.nz/#!woVzAAIC!bU9sctEQGRZXHGpr47vNl8AqIpnDE4zQCF6mOnynthk"
         >
             Download
-
         </a>
     </p>
 </div>
 <p>
-    <strong>American English | Ivy </strong>
+    <h3>American English | Ivy </h3>
 </p>
 <p>
     <strong>- Female (Child) </strong>
@@ -56,13 +55,12 @@
         href="https://mega.nz/#!t8tXURCT!GnQUasHq5NirHW6J8lS-6X6hKSFV_v5GPxS-zr1TBcE"
     >
         Download
-
     </a>
 </p>
 <div>
 </div>
 <p>
-    <strong>American English | Jennifer </strong>
+    <h3>American English | Jennifer </h3>
 </p>
 <p>
     <strong>- Female </strong>
@@ -75,13 +73,12 @@
         href="https://mega.nz/#!kpFDjbKI!oBjiofUehNwJ4kesNUBqcqvtyNjOQVa-Yv13cda5k_s"
     >
         Download
-
     </a>
 </p>
 <div>
 </div>
 <p>
-    <strong>American English | Joey </strong>
+    <h3>American English | Joey </h3>
 </p>
 <p>
     <strong>- Male </strong>
@@ -94,13 +91,12 @@
         href="https://mega.nz/#!ohsW2a4A!tRVFua0LgrCMGcHpGUgnAsEwTSyVMwXiDoxPxAnAbYA"
     >
         Download
-
     </a>
 </p>
 <div>
 </div>
 <p>
-    <strong>American English | Justin </strong>
+    <h3>American English | Justin </h3>
 </p>
 <p>
     <strong>- Male (Child) </strong>
@@ -113,13 +109,12 @@
         href="https://mega.nz/#!g1lWAZbY!Uf2cl5DItGQubdIIUF0Xs09OrNcNrDWRfiaVuJ-HCmc"
     >
         Download
-
     </a>
 </p>
 <div>
 </div>
 <p>
-    <strong>American English | Kendra </strong>
+    <h3>American English | Kendra </h3>
 </p>
 <p>
     <strong>- Female </strong>
@@ -133,12 +128,11 @@
             href="https://mega.nz/#!I11TmCYS!KnZop1G30pb7Z7Cuc6j1KwB47_w6nmMIWF3ORoky6IY"
         >
             Download
-
         </a>
     </p>
 </div>
 <p>
-    <strong>American English | Kimberly </strong>
+    <h3>American English | Kimberly </h3>
 </p>
 <p>
     <strong>- Female </strong>
@@ -151,13 +145,12 @@
         href="https://mega.nz/#!Mhty2DaB!rxf3W_eVuB9WAxhDQ9C0_b0aJEC9Vcc-vbQgeMg1IGs"
     >
         Download
-
     </a>
 </p>
 <div>
 </div>
 <p>
-    <strong>American English | Salli </strong>
+    <h3>American English | Salli </h3>
 </p>
 <p>
     <strong>- Female </strong>
@@ -170,6 +163,6 @@
         href="https://mega.nz/#!kgFHXCAB!rt5erS5FPm_fiZISp4GoXoF6UxqD4q1paCIy9s1PQ70"
     >
         Download
-
     </a>
 </p>
+
