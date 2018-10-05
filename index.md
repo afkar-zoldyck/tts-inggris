@@ -1,5 +1,5 @@
 <p>
-    <strong>Ivona 2 Text-To-Speech Voices 1.6.70 English</strong>
+    <h2>Ivona 2 Text-To-Speech Voices 1.6.70 English</h2>
     <br/>
     <br/>
     <strong>
