@@ -158,7 +158,7 @@
         Download
     </a>
 </p>
-
+<br>
 <p>Setelah menginstall voice, silahkan copy file ini pada directory, sifatnya WAJIB.</p>
 <h2>Fix Ivona 2</h2>
 <div>
