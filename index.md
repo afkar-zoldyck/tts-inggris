@@ -2,10 +2,6 @@
     <h1>Ivona 2 Text-To-Speech Voices 1.6.70 English</h1>
 </p>
 <p>
-    <strong>
-        <br/>
-    </strong>
-    <br/>
     <h3>American English | Chipmunk </h3>
 </p>
 <p>
