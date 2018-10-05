@@ -1,37 +1,18 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/afkar-zoldyck/tts-inggris/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Text-to-Speech, abbreviated as TTS, is a technology that converts digital text into spoken voice output. Text-to-Speech systems were first developed to aid the visually impaired. They are nowadays ubiquitous, having an extremely broad field of application ranging from voices giving directions on navigation devices to voices for public announcement systems and virtual assistants.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Users expect TTS voices to interpret text in a human-like manner, and sound just like a human would. This is especially true for interactive systems such as IVR or virtual assistants, where voices need a persona that matches the conveyed content.
+
+Ivona provides high-quality, natural-sounding TTS voices and highly accurate text interpretation out-of-the-box. The voices inherit the persona of the original voice talents, contributing to an authentic user experience that builds trust.
+
+Ivona researches and develops high-caliber TTS technology and constantly delivers its solutions on a large number of devices and applications in a customer-centric way.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ivona 2 Text-To-Speech Voices 1.6.70 English
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**American English | Chipmunk | male (funny/crazy) | 229.62 MB**
+[Link](https://mega.nz/#!Yo1kxA5b!MMLAnqnbNFF8tWytO77DQWsmwtH16UE8arVCkiJk0lM)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/afkar-zoldyck/tts-inggris/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
